@@ -1,0 +1,1 @@
+# customized-key-combinations....these program is used to create your own key combinations .In this code i used alt+1 to open new terminal, alt+2 to open google-chrome, alt+3 to open text editor .full of python automation,you can modify this code accoding to your wish
